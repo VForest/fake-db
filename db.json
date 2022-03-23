@@ -7,7 +7,8 @@
         "image": ""
         "requestDate":
         "prize": 34
-      },
+      }
+    },
     {
       "message": "Livreur fiable!",
       "request":{
@@ -15,7 +16,8 @@
         "image": ""
         "requestDate":
         "prize": 123.99
-      },
+      }
+    },
     {
       "message": "",
       "request":{
@@ -23,7 +25,8 @@
         "image": ""
         "requestDate":
         "prize": 99.99
-      },
+      }
+    },
     {
       "message": "Vite fait bien fait",
       "request":{
@@ -31,7 +34,8 @@
         "image": ""
         "requestDate":
         "prize":239.99
-      },
+      }
+    },
     {
       "message": "Du texte random",
       "request":{
