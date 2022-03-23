@@ -5,7 +5,7 @@
       "request":{
         "name": "Table ronde",
         "image": "",
-        "requestDate":
+        "requestDate":"2012-04-23T18:25:43.511Z",
         "prize": 34
       }
     },
@@ -14,7 +14,7 @@
       "request":{
         "name": "Ordinateur HP",
         "image": "",
-        "requestDate":,
+        "requestDate": "2012-04-23T18:25:43.511Z",
         "prize": 123.99
       }
     },
@@ -23,7 +23,7 @@
       "request":{
         "name": "Piano",
         "image": "",
-        "requestDate":,
+        "requestDate":"2012-04-23T18:25:43.511Z",
         "prize": 99.99
       }
     },
@@ -32,7 +32,7 @@
       "request":{
         "name": "Lit Queen",
         "image": "",
-        "requestDate":,
+        "requestDate":"2012-04-23T18:25:43.511Z",
         "prize":239.99
       }
     },
@@ -41,7 +41,7 @@
       "request":{
         "name": "Chaises",
         "image": "",
-        "requestDate":,
+        "requestDate":"2012-04-23T18:25:43.511Z",
         "prize": 12.79
       }
     
