@@ -45,5 +45,37 @@
         "prize": 12.79
       }
     
-    }]
+    }],
+  "REQUEST_MOCK" : [
+    {
+      "name": "Table ronde",
+        "image": "",
+        "requestDate":"2012-04-23T18:25:43.511Z",
+        "prize": 34
+    },
+    {
+    "name": "Ordinateur HP",
+        "image": "",
+        "requestDate": "2012-04-23T18:25:43.511Z",
+        "prize": 123.99
+    },
+    {
+    "name": "Piano",
+        "image": "",
+        "requestDate":"2012-04-23T18:25:43.511Z",
+        "prize": 99.99
+    },
+    {
+    "name": "Lit Queen",
+        "image": "",
+        "requestDate":"2012-04-23T18:25:43.511Z",
+        "prize":239.99
+    },
+    {
+    "name": "Chaises",
+        "image": "",
+        "requestDate":"2012-04-23T18:25:43.511Z",
+        "prize": 12.79
+    }
+  ]
 }
