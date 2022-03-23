@@ -1,7 +1,7 @@
 {
   "OFFERS_MOCK" : [
     {
-      "message": "Livraison Rapide!"
+      "message": "Livraison Rapide!",
       "request":{
         "name": "Table ronde"
         "image": ""
@@ -9,7 +9,7 @@
         "prize": 34
       },
     {
-      "message": "Livreur fiable!"
+      "message": "Livreur fiable!",
       "request":{
         "name": "Ordinateur HP"
         "image": ""
@@ -17,7 +17,7 @@
         "prize": 123.99
       },
     {
-      "message": ""
+      "message": "",
       "request":{
         "name": "Piano"
         "image": ""
@@ -25,19 +25,19 @@
         "prize": 99.99
       },
     {
-      "message": "Vite fait bien fait"
+      "message": "Vite fait bien fait",
       "request":{
         "name": "Lit Queen"
         "image": ""
         "requestDate":
-        "prize":239.99"
+        "prize":239.99
       },
     {
-      "message": "Du texte random"
+      "message": "Du texte random",
       "request":{
         "name": "Chaises"
         "image": ""
-        "requestDate": 22/3/2022
+        "requestDate":
         "prize": 12.79
       }
     
