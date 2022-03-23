@@ -5,7 +5,7 @@
       "request":{
         "name": "Table ronde"
         "image": ""
-        "requestDate": 23/03/2022
+        "requestDate":
         "prize": 34
       },
     {
@@ -13,7 +13,7 @@
       "request":{
         "name": "Ordinateur HP"
         "image": ""
-        "requestDate": 23/03/2022
+        "requestDate":
         "prize": 123.99
       },
     {
@@ -21,7 +21,7 @@
       "request":{
         "name": "Piano"
         "image": ""
-        "requestDate": 22/3/2022
+        "requestDate":
         "prize": 99.99
       },
     {
@@ -29,7 +29,7 @@
       "request":{
         "name": "Lit Queen"
         "image": ""
-        "requestDate": 22/3/2022
+        "requestDate":
         "prize":239.99"
       },
     {
