@@ -1,14 +1,45 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "OFFERS_MOCK" : [
+    {
+      "message": "Livraison Rapide!"
+      "request":{
+        "name": "Table ronde"
+        "image": ""
+        "requestDate": 23/03/2022
+        "prize": 34
+      },
+    {
+      "message": "Livreur fiable!"
+      "request":{
+        "name": "Ordinateur HP"
+        "image": ""
+        "requestDate": 23/03/2022
+        "prize": 123.99
+      },
+    {
+      "message": ""
+      "request":{
+        "name": "Piano"
+        "image": ""
+        "requestDate": 22/3/2022
+        "prize": 99.99
+      },
+    {
+      "message": "Vite fait bien fait"
+      "request":{
+        "name": "Lit Queen"
+        "image": ""
+        "requestDate": 22/3/2022
+        "prize":239.99"
+      },
+    {
+      "message": "Du texte random"
+      "request":{
+        "name": "Chaises"
+        "image": ""
+        "requestDate": 22/3/2022
+        "prize": 12.79
+      }
+    
+    }
 }
