@@ -1,6 +1,7 @@
 {
   "OFFERS_MOCK" : [
     {
+      "id": 1,
       "message": "Livraison Rapide!",
       "request":{
         "name": "Table ronde",
@@ -10,6 +11,7 @@
       }
     },
     {
+      "id": 2,
       "message": "Livreur fiable!",
       "request":{
         "name": "Ordinateur HP",
@@ -19,6 +21,7 @@
       }
     },
     {
+      "id": 3,
       "message": "",
       "request":{
         "name": "Piano",
@@ -28,6 +31,7 @@
       }
     },
     {
+      "id": 4,
       "message": "Vite fait bien fait",
       "request":{
         "name": "Lit Queen",
@@ -37,6 +41,7 @@
       }
     },
     {
+      "id": 5,
       "message": "Du texte random",
       "request":{
         "name": "Chaises",
@@ -48,30 +53,35 @@
     }],
   "REQUEST_MOCK" : [
     {
+      "id": 1,
       "name": "Table ronde",
         "image": "",
         "requestDate":"2012-04-23T18:25:43.511Z",
         "prize": 34
     },
     {
+      "id": 2,
     "name": "Ordinateur HP",
         "image": "",
         "requestDate": "2012-04-23T18:25:43.511Z",
         "prize": 123.99
     },
     {
+      "id": 3,
     "name": "Piano",
         "image": "",
         "requestDate":"2012-04-23T18:25:43.511Z",
         "prize": 99.99
     },
     {
+      "id": 4,
     "name": "Lit Queen",
         "image": "",
         "requestDate":"2012-04-23T18:25:43.511Z",
         "prize":239.99
     },
     {
+      "id": 5,
     "name": "Chaises",
         "image": "",
         "requestDate":"2012-04-23T18:25:43.511Z",
