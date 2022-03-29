@@ -90,6 +90,7 @@
   ],
   "USER_MOCK" : [
     {
+      "id": 1,
       "firstName": "Vincent",
       "lastName": "Forest",
       "phoneNumber": "(450)123-4567",
@@ -97,6 +98,7 @@
       "dateOfBirth": "1996-01-11",
     },
     {
+      "id": 2,
       "firstName": "Vincent",
       "lastName": "Gagnon",
       "phoneNumber": "(450)888-9999",
@@ -104,6 +106,7 @@
       "dateOfBirth": "1996-04-16",
     },
     {
+      "id": 3,
       "firstName": "Yann",
       "lastName": "Judith",
       "phoneNumber": "(450)456-1234",
@@ -111,6 +114,7 @@
       "dateOfBirth": "1998-10-11",
     },
     {
+      "id": 4,
       "firstName": "Antoine",
       "lastName": "Coutu",
       "phoneNumber": "(819)000-1234",
