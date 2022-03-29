@@ -88,7 +88,7 @@
         "prize": 12.79
     }
   ],
-  USER_MOCK : [
+  "USER_MOCK" : [
     {
       "firstName": "Vincent",
       "lastName": "Forest",
