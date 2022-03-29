@@ -96,7 +96,8 @@
       "lastName": "Forest",
       "phoneNumber": "(450)123-4567",
       "email": "vincentforest@gmail.com",
-      "dateOfBirth": "1996-01-11"
+      "dateOfBirth": "1996-01-11",
+      "createdAt": "2019-09-01"
     },
     {
       "id": 2,
@@ -105,7 +106,8 @@
       "lastName": "Gagnon",
       "phoneNumber": "(450)888-9999",
       "email": "vincentgagnon@gmail.com",
-      "dateOfBirth": "1996-04-16"
+      "dateOfBirth": "1996-04-16",
+      "createdAt": "2022-03-20"
     },
     {
       "id": 3,
@@ -114,7 +116,8 @@
       "lastName": "Judith",
       "phoneNumber": "(450)456-1234",
       "email": "yannjudith@gmail.com",
-      "dateOfBirth": "1998-10-11"
+      "dateOfBirth": "1998-10-11",
+      "createdAt": "2021-10-10"
     },
     {
       "id": 4,
@@ -123,7 +126,8 @@
       "lastName": "Coutu",
       "phoneNumber": "(819)000-1234",
       "email": "antoineCoutut@gmail.com",
-      "dateOfBirth": "194-12-12"
+      "dateOfBirth": "194-12-12",
+      "createdAt": "2022-02-02"
     }]
     
 }
