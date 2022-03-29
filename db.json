@@ -99,14 +99,14 @@
     {
       "firstName": "Vincent",
       "lastName": "Gagnon",
-      "phoneNumber": "(450)888-9999,
+      "phoneNumber": "(450)888-9999",
       "email": "vincentgagnon@gmail.com",
       "dateOfBirth": "1996-04-16",
     },
     {
       "firstName": "Yann",
       "lastName": "Judith",
-      "phoneNumber": "(450)456-1234,
+      "phoneNumber": "(450)456-1234",
       "email": "yannjudith@gmail.com",
       "dateOfBirth": "1998-10-11",
     },
