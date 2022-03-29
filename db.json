@@ -91,6 +91,7 @@
   "USER_MOCK" : [
     {
       "id": 1,
+      "role": "MODERATEUR",
       "firstName": "Vincent",
       "lastName": "Forest",
       "phoneNumber": "(450)123-4567",
@@ -99,6 +100,7 @@
     },
     {
       "id": 2,
+      "role": "PARTICULIER",
       "firstName": "Vincent",
       "lastName": "Gagnon",
       "phoneNumber": "(450)888-9999",
@@ -107,6 +109,7 @@
     },
     {
       "id": 3,
+      "role": "MODERATEUR",
       "firstName": "Yann",
       "lastName": "Judith",
       "phoneNumber": "(450)456-1234",
@@ -115,6 +118,7 @@
     },
     {
       "id": 4,
+      "role": "LIVREUR",
       "firstName": "Antoine",
       "lastName": "Coutu",
       "phoneNumber": "(819)000-1234",
