@@ -97,7 +97,13 @@
       "phoneNumber": "(450)123-4567",
       "email": "vincentforest@gmail.com",
       "dateOfBirth": "1996-01-11",
-      "createdAt": "2019-09-01"
+      "createdAt": "2019-09-01",
+      "ratings": [
+        {
+          "stars":5,
+          "comment": "Excellent"
+        }
+      ]
     },
     {
       "id": 2,
