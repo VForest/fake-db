@@ -122,7 +122,8 @@
       "phoneNumber": "(450)888-9999",
       "email": "vincentgagnon@gmail.com",
       "dateOfBirth": "1996-04-16",
-      "createdAt": "2022-03-20"
+      "createdAt": "2022-03-20",
+      "ratings": []
     },
     {
       "id": 3,
@@ -132,7 +133,8 @@
       "phoneNumber": "(450)456-1234",
       "email": "yannjudith@gmail.com",
       "dateOfBirth": "1998-10-11",
-      "createdAt": "2021-10-10"
+      "createdAt": "2021-10-10",
+       "ratings": []
     },
     {
       "id": 4,
@@ -142,7 +144,8 @@
       "phoneNumber": "(819)000-1234",
       "email": "antoineCoutut@gmail.com",
       "dateOfBirth": "194-12-12",
-      "createdAt": "2022-02-02"
+      "createdAt": "2022-02-02",
+       "ratings": []
     }]
     
 }
